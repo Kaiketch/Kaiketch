@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+https://qiita.com/yuto_aka_ike
+https://zenn.dev/kaikecchi
+
+https://offers.jp/media/interviews/a_2095
+https://careerhack.en-japan.com/report/detail/770
+
+
 <!--
 **Kaiketch/Kaiketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
