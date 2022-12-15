@@ -1,10 +1,21 @@
-### Hi there 👋
+### Yuto Akaike 👋
 
-https://qiita.com/yuto_aka_ike
-https://zenn.dev/kaikecchi
+- 技術ブログ等
+  - [令和トラベル Engineers' Blog](https://engineering.reiwatravel.co.jp/blog/newt-android-architecture)
+  - [Zenn](https://zenn.dev/kaikecchi/articles/249356084ac04e)
+  - [Qiita](https://qiita.com/yuto_aka_ike)
+  - [Speaker Deck](https://speakerdeck.com/kaiketch/camerax-x-ml-kitde-pasupotoocrji-neng-woshi-zhuang)
 
-https://offers.jp/media/interviews/a_2095
-https://careerhack.en-japan.com/report/detail/770
+- 登壇動画・インタビュー記事
+  - [Droid Kaigi 2022](https://www.youtube.com/watch?v=SBu2J8blfac)
+  - []()
+  - [Offers](https://offers.jp/media/interviews/a_2095)
+  - [キャリアハック](https://careerhack.en-japan.com/report/detail/770)
+
+- その他
+  - [Twitter](https://twitter.com/kaikecchi)
+  - [YOUTRUST](https://youtrust.jp/users/kaikecchi)
+  - [Wantedly](https://www.wantedly.com/id/yuto_akaike)
 
 
 <!--
