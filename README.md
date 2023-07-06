@@ -1,8 +1,7 @@
 ### Yuto Akaike 👋
 
 - 技術ブログ等
-  - [令和トラベル Engineers' Blog](https://engineering.reiwatravel.co.jp/blog/newt-android-architecture)
-  - [Zenn](https://zenn.dev/kaikecchi/articles/249356084ac04e)
+  - [令和トラベル Engineers' Blog](https://engineering.reiwatravel.co.jp/category/android)
   - [Qiita](https://qiita.com/yuto_aka_ike)
   - [Speaker Deck](https://speakerdeck.com/kaiketch/camerax-x-ml-kitde-pasupotoocrji-neng-woshi-zhuang)
 
