@@ -1,6 +1,6 @@
 ### Yuto Akaike 👋
 
-- 技術ブログ等
+- 技術ブログ
   - [令和トラベル Engineers' Blog](https://engineering.reiwatravel.co.jp/category/android)
   - [Qiita](https://qiita.com/yuto_aka_ike)
   - [Speaker Deck](https://speakerdeck.com/kaiketch/camerax-x-ml-kitde-pasupotoocrji-neng-woshi-zhuang)
@@ -10,12 +10,16 @@
   - [【令和トラベル x カウシェ x 10X スタートアップ3社合同】モバイルアプリエンジニアのリアル](https://reiwatravel.connpass.com/event/250930/)
   - [Offers](https://offers.jp/media/interviews/a_2095)
   - [キャリアハック](https://careerhack.en-japan.com/report/detail/770)
+ 
+- プロダクト
+  - [NEWT（Android）](https://newt.net/app)
+  - [ダビフレ（Android・iOS）](https://www.derby-friends.com/myprediction/)
+  - [My予想ジェネレータ（Flutter）](https://www.derby-friends.com/myprediction/)
 
-- その他
+- SNS等
   - [Twitter](https://twitter.com/kaikecchi)
   - [YOUTRUST](https://youtrust.jp/users/kaikecchi)
   - [Wantedly](https://www.wantedly.com/id/yuto_akaike)
-
 
 <!--
 **Kaiketch/Kaiketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
