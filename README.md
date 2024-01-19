@@ -1,5 +1,4 @@
 ### Yuto Akaike 👋
-
 - 技術ブログ
   - [令和トラベル Engineers' Blog](https://engineering.reiwatravel.co.jp/category/android)
   - [Qiita](https://qiita.com/yuto_aka_ike)
@@ -13,7 +12,7 @@
  
 - プロダクト
   - [NEWT（Android）](https://newt.net/app)
-  - [ダビフレ（Android・iOS）](https://www.derby-friends.com/myprediction/)
+  - [ダビフレ（Android・iOS）](https://www.derby-friends.com/app)
   - [My予想ジェネレータ（Flutter）](https://www.derby-friends.com/myprediction/)
 
 - SNS等
