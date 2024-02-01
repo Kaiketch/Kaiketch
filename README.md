@@ -6,7 +6,7 @@
 
 - 登壇動画・インタビュー記事
   - [Droid Kaigi 2022](https://www.youtube.com/watch?v=SBu2J8blfac)
-  - [【令和トラベル x カウシェ x 10X スタートアップ3社合同】モバイルアプリエンジニアのリアル](https://www.youtube.com/watch?v=alsIawHATxc&t=2692s)
+  - [【令和トラベル x カウシェ x 10X スタートアップ3社合同】モバイルアプリエンジニアのリアル](https://www.youtube.com/watch?v=alsIawHATxc)
   - [Offers](https://offers.jp/media/interviews/a_2095)
   - [キャリアハック](https://careerhack.en-japan.com/report/detail/770)
  
