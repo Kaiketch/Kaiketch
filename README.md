@@ -10,8 +10,7 @@
   - [Offers](https://offers.jp/media/interviews/a_2095)
   - [キャリアハック](https://careerhack.en-japan.com/report/detail/770)
  
-- プロダクト
-  - [NEWT（Android）](https://newt.net/app)
+- 個人開発プロダクト
   - [ダビフレ（Android・iOS）](https://www.derby-friends.com/app)
   - [My予想ジェネレータ（Flutter）](https://www.derby-friends.com/myprediction/)
 
